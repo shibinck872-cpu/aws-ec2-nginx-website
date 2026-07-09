@@ -7,7 +7,7 @@ This project demonstrates deploying a simple HTML website on an AWS EC2 Ubuntu i
 
 Website accessible through the EC2 Public IP:
 
-**http://65.0.21.16
+**http://65.0.21.16**
 
 ## AWS Services Used
 - Amazon EC2
