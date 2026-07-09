@@ -51,12 +51,13 @@ ps aux
 
 ## Evidence
 
-The project includes screenshots of:
+The following evidence is included in the submission:
 
 - EC2 instance running
 - SSH connection established
 - Nginx service running
 - Website accessible through the EC2 Public IP
+- Docker `hello-world` container executed successfully 
 
 ## Repository Contents
 ```
